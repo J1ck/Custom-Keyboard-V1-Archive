@@ -1,0 +1,4 @@
+https://www.amazon.com.au/ATmega32U4-Arduino-Leonardo-Controller-Pro-Micro/dp/B07ZHBT59K/ref=sr_1_10?dchild=1&keywords=arduino+pro+micro&qid=1622887343&sr=8-10
+https://www.amazon.com.au/DSD-TECH-OLED-Display-Arduino/dp/B07D9H83R4/ref=sr_1_3?crid=4Y9ERCZWYJYX&dchild=1&keywords=lcd+display+arduino&qid=1622887561&sprefix=lcd+display%2Caps%2C353&sr=8-3
+https://www.amazon.com.au/1N4148-100V-4A-Signal-Diode/dp/B0851Z1H8J/ref=sr_1_1?dchild=1&keywords=diode&qid=1622885522&sr=8-1
+https://www.amazon.com.au/YUNGUI-Prototype-Stripboard-Soldering-Printed/dp/B07ZP545TY/ref=sr_1_1?dchild=1&keywords=copper+strip+pcb&qid=1622885995&sr=8-1
